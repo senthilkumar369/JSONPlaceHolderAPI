@@ -1,10 +1,15 @@
 # JSONPlaceholderAPITest
-This is the repository to main RestApi Test fpr JSONPlaceHolder services
+The repository contains RestApi Test for JSONPlaceHolder services.
 
-This test repository to test JSONPlaceHolder Api Test.
+  - Tests JSONPlaceHolderservice.
 
-This test uses REST SHARP library to test the Rest Servcies.
-
+   -Uses REST SHARP library to test the Rest Servcies.
+   
+   -Uses Specflow features.
+   
+   - It contains four feature file for Methods GET,POST,PUT and DELETE.
+   
+   
 Service :
 https://jsonplaceholder.typicode.com/posts
 
